@@ -66,16 +66,6 @@ namespace Seconden_to_U.M.S
 
             Console.WriteLine("{0} hours {1} minutes and {2} seconds", hours, mins, secs);
 
-            //outVersie
-
-            //int dagen = 0;
-            //int uur = 0;
-            //int minuten = 0;
-            //int seconden = 0;
-            //SecTosHoursMinsSecs(86401, out dagen, out uur, out minuten, out seconden);
-            //Console.WriteLine("{0} dagen, {1} uur, {2} minuten, {3} seconden",dagen, uur, minuten, seconden);
-
-
             //MetMethodEnStruct
 
             //HMSTime time = SecToHMS(86401);
