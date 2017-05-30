@@ -27,6 +27,9 @@ namespace Seconden_to_U.M.S
 
         static void Main(string[] args)
         {
+            SecToHoursMinsSecs(61);
+
+            Console.WriteLine("{0} hours {1} minutes and {2} seconds", hours, mins, secs);
         }
     }
 }
